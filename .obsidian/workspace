@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "049e6c94fce716af",
+        "id": "bc69d96fc19076d7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "win7,8,10passbypass.md",
-            "mode": "preview"
+            "file": "Find_command.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "win7,8,10passbypass.md",
+                "file": "Find_command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "049e6c94fce716af",
+  "active": "bc69d96fc19076d7",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Find_command.md",
+    "Untitled.md",
+    "win7,8,10passbypass.md"
   ]
 }
